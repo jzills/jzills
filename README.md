@@ -6,7 +6,7 @@ My names Joshua and I enjoy writing software!
 - 🌱 Taking a deep dive into TypeScript and SQL Server.
 - ⚡ In my free time, I enjoy developing tools for developers.
 
-## 🛠 &nbsp;Tools
+## Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET Core" alt="NET Core" width="40" height="40"/>&nbsp;
@@ -18,3 +18,7 @@ My names Joshua and I enjoy writing software!
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+
+## What I'm working on now
+
+I am currently developing a fluent API for Freesound.org, aiming to create a generative radio station that dynamically layers sounds in real-time. The goal is to produce a musical experience that alternates between harmonious and (un)intentionally dissonant compositions.
