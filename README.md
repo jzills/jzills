@@ -1,10 +1,6 @@
 ## Hi there 👋 
 
-My names Joshua and I enjoy writing software!
-
-- 🔭 I’m working as a Software Developer building desktop and web applications.
-- 🌱 Taking a deep dive into TypeScript and SQL Server.
-- ⚡ In my free time, I enjoy developing tools for developers.
+I'm a dedicated software developer with a passion for crafting innovative, high-quality solutions to tackle complex business challenges. I thrive on transforming ideas into impactful, user-friendly applications that drive success.
 
 ## Tools
 
@@ -19,6 +15,6 @@ My names Joshua and I enjoy writing software!
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 
-## What I'm working on now
+## Currently working on
 
-I am currently developing a fluent API for Freesound.org, aiming to create a generative radio station that dynamically layers sounds in real-time. The goal is to produce a musical experience that alternates between harmonious and (un)intentionally dissonant compositions.
+A fluent API for Freesound.org, aiming to create a generative radio station that dynamically layers sounds in real-time. The goal is to produce an on-the-fly musical experience from the arrangements provided by the community.
