@@ -25,20 +25,25 @@
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## Current Project
+## Currently Exploring
+
+### AI Workflow Systems & Agent Engineering
+
+Designing and experimenting with AI-native developer workflows, including skills, custom agents, and automation layers that extend beyond traditional tooling.
+- AI agent orchestration and tool use
+- “Skill” based modular capabilities (reusable behavior units)
+- DevOps + AI integration workflows
+- Automated code generation, review, and operational assistance
+- Exploring how AI can become part of the SDLC, not just a tool
 
 ### Generative Radio Engine (Freesound API)
 
 A fluent API for Freesound.org that powers a generative radio system.  
 It dynamically layers community-provided sounds into real-time audio streams.
-
-Focus areas:
 - Real-time audio composition
 - Scalable backend architecture
 - API design & abstraction
