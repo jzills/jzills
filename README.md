@@ -31,7 +31,7 @@
 
 ## Currently Exploring
 
-### AI Workflow Systems & Agent Engineering
+### AI Workflow Systems & Agentic Engineering
 
 Designing and experimenting with AI-native developer workflows, including skills, custom agents, and automation layers that extend beyond traditional tooling.
 - AI agent orchestration and tool use
