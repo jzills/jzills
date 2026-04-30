@@ -1,12 +1,12 @@
 # Hi there 👋 I'm a Software Developer
 
-💻 Building reliable systems, clean APIs, and modern web applications  
-⚙️ Recently focusing on DevOps, automation, and cloud-native tooling  
-🚀 I enjoy shipping maintainable software that solves real problems  
+- Building reliable systems, clean APIs, and modern web applications  
+- Focusing on DevOps, automation, and cloud-native tooling  
+- Shipping maintainable software that solves real problems  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend & Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -31,9 +31,9 @@
 
 ---
 
-## 🚀 Current Project
+## Current Project
 
-### 🎧 Generative Radio Engine (Freesound API)
+### Generative Radio Engine (Freesound API)
 
 A fluent API for Freesound.org that powers a generative radio system.  
 It dynamically layers community-provided sounds into real-time audio streams.
@@ -44,8 +44,4 @@ Focus areas:
 - API design & abstraction
 - Experimentation with generative sound systems
 
----
 
-## ✨ Fun Fact
-
-I like building systems where engineering meets creativity—especially when real-time data or audio is involved.
