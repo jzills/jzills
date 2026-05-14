@@ -41,13 +41,14 @@ Designing and experimenting with AI-native developer workflows, including skills
 - Automated code generation, review, and operational assistance
 - Exploring how AI can become part of the SDLC, not just a tool
 
-### Generative Radio Engine (Freesound API)
+### Generative Radio Engine (Multi-Source Audio System)
 
-A fluent API for Freesound.org that powers a generative radio system.  
-It dynamically layers community-provided sounds into real-time audio streams.
-- Real-time audio composition
-- Scalable backend architecture
-- API design & abstraction
-- Experimentation with generative sound systems
+A fluent API layer powering a generative radio system that aggregates and streams audio from multiple sound libraries and APIs.
+It dynamically composes real-time audio streams from diverse sources, enabling adaptive, layered generative sound experiences.
+- Real-time audio composition and streaming
+- Multi-source audio ingestion and normalization layer
+- Scalable backend architecture for audio retrieval and mixing
+- API design & abstraction across heterogeneous sound providers
+- Experimentation with generative sound systems and adaptive audio experiences
 
 
