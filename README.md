@@ -3,6 +3,8 @@
 - Developer-first tools for automation, infrastructure, and AI-assisted engineering.  
 - Creative coding through generative audio-visual systems.
 
+[LinkedIn](https://www.linkedin.com/in/jzillss) | [Portfolio](https://jzills.github.io)
+
 ---
 
 ## [Kx](https://github.com/jzills/Kx) — kubectl workflow accelerator with index-based selection  
