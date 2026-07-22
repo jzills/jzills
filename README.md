@@ -28,7 +28,7 @@ AI-native workflows built around reusable skills, agent orchestration, and autom
 
 ---
 
-## audio-daze — generative audiovisual composition system  
+## driftcast — generative audiovisual composition system  
 A system that generates evolving music from layered audio sources and drives reactive visuals from real-time signal structure.
 
 `Audio` `Visualization` `Generative-media` `TypeScript` `Freesound` `Internet Archive`
