@@ -17,7 +17,7 @@ A cross-platform toolkit with libraries and infrastructure components for HMAC-b
 ## [kx](https://github.com/jzills/kx) — kubectl workflow accelerator with index-based selection  
 A kubectl extension that replaces resource-name lookup with index-based navigation. Query once, then operate on results instantly for logs, describe, exec, and more.
 
-`Python` `Typer` `Kubernetes` `CLI`
+`Go` `Kubernetes` `CLI` `Krew`
 
 ---
 
