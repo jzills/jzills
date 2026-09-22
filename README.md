@@ -7,17 +7,17 @@
 
 ---
 
-## [hmac-manager](https://github.com/jzills/hmac-manager) — secure service authentication toolkit
-A cross-platform toolkit with libraries and infrastructure components for HMAC-based request signing across applications, APIs, and Kubernetes workloads.
-
-`C#` `.NET` `TypeScript` `Kubernetes` `Helm` `Docker` `Istio`
-
----
-
 ## [kx](https://github.com/jzills/kx) — kubectl workflow accelerator with index-based selection  
 A kubectl extension that replaces resource-name lookup with index-based navigation. Query once, then operate on results instantly for logs, describe, exec, and more.
 
 `Go` `Kubernetes` `CLI` `Krew`
+
+---
+
+## [hmac-manager](https://github.com/jzills/hmac-manager) — secure service authentication toolkit
+A cross-platform toolkit with libraries and infrastructure components for HMAC-based request signing across applications, APIs, and Kubernetes workloads.
+
+`C#` `.NET` `TypeScript` `Kubernetes` `Helm` `Docker` `Istio`
 
 ---
 
