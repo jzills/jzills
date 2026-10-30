@@ -44,4 +44,4 @@ A system that generates evolving music from layered audio sources and drives rea
 
 ## Tech Stack 
 
-C# • Python • TypeScript • Bash • SQL • .NET • React • Docker • Kubernetes • Azure
+C# • Python • TypeScript • Bash • SQL • .NET • React • Docker • Kubernetes • Azure • Terraform
