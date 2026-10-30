@@ -21,6 +21,13 @@ A cross-platform toolkit with libraries and infrastructure components for HMAC-b
 
 ---
 
+## [snoop](https://github.com/jzills/snoop) — local AI agent session monitoring
+Monitor AI agent sessions in real time or inspect past sessions to understand costs, file changes, and time spent. Reads existing agent transcripts without modifying them or sending data off your machine.
+
+`AI` `Claude` `Go` `CLI` `Agent Monitoring`
+
+---
+
 ## [claude-marketplace](https://github.com/jzills/claude-marketplace) — agentic engineering & developer automation  
 AI-native workflows built around reusable skills, agent orchestration, and automation for everyday engineering tasks.
 
