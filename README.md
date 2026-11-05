@@ -25,6 +25,15 @@ A cross-platform toolkit with libraries and infrastructure components for HMAC-b
 
 ---
 
+## [action-cache](https://github.com/jzills/action-cache) — namespaced response caching for ASP.NET Core
+A response caching library for ASP.NET Core with namespaced invalidation across Memory, Redis, SQL Server, and Azure Cosmos DB backends.
+
+[Docs](https://jzills.github.io/action-cache/)
+
+`C#` `.NET` `ASP.NET Core` `Redis` `Azure`
+
+---
+
 ## [snoop](https://github.com/jzills/snoop) — local AI agent session monitoring
 Monitor AI agent sessions in real time or inspect past sessions to understand costs, file changes, and time spent. Reads existing agent transcripts without modifying them or sending data off your machine.
 
