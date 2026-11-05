@@ -3,12 +3,14 @@
 - Developer-first tools for automation, infrastructure, and AI-assisted engineering.  
 - Creative coding through generative audio-visual systems.
 
-[LinkedIn](https://www.linkedin.com/in/jzillss) | [Portfolio](https://jzills.github.io)
+[LinkedIn](https://www.linkedin.com/in/jzillss) | [Portfolio](https://jzills.github.io) | [Lab](https://jzills.github.io/lab/)
 
 ---
 
 ## [kx](https://github.com/jzills/kx) — kubectl workflow accelerator with index-based selection  
 A kubectl extension that replaces resource-name lookup with index-based navigation. Query once, then operate on results instantly for logs, describe, exec, and more.
+
+[Docs](https://jzills.github.io/kx/)
 
 `Go` `Kubernetes` `CLI` `Krew`
 
@@ -17,12 +19,16 @@ A kubectl extension that replaces resource-name lookup with index-based navigati
 ## [hmac-manager](https://github.com/jzills/hmac-manager) — secure service authentication toolkit
 A cross-platform toolkit with libraries and infrastructure components for HMAC-based request signing across applications, APIs, and Kubernetes workloads.
 
+[Docs](https://jzills.github.io/hmac-manager/)
+
 `C#` `.NET` `TypeScript` `Kubernetes` `Helm` `Docker` `Istio`
 
 ---
 
 ## [snoop](https://github.com/jzills/snoop) — local AI agent session monitoring
 Monitor AI agent sessions in real time or inspect past sessions to understand costs, file changes, and time spent. Reads existing agent transcripts without modifying them or sending data off your machine.
+
+[Docs](https://jzills.github.io/snoop/)
 
 `AI` `Claude` `Go` `CLI` `Agent Monitoring`
 
